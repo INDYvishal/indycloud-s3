@@ -1,7 +1,7 @@
 Package.describe({
 	name:"indycloud:s3",
 	summary: "Upload files to S3. Allows use of Knox Server-Side.",
-	version:"5.2.4",
+	version:"5.2.5",
 	git:""
 });
 
